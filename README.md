@@ -1,7 +1,7 @@
 # Croduino NOVA Eagle Files
 ## Image
 ![Croduino NOVA image]
-(https://e-radionica.com/wp/hrvatski/wp-content/uploads/sites/3/2016/02/NOVA11-1024x678.jpg)
+(https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
 [Croduino NOVA(100026)] (https://e-radionica.com/en/croduino-nova.html)
 
 ## Description and details
@@ -35,6 +35,7 @@ Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. t
 
 ## Board versions
 - v1.0 - inital published version 
+- v1.1 - there was error near GPIO1 pushbutton in which GPIO0 was always directly connected to gnd. Fixed now. Silkscreen text is also a bit bigger and more readable.
 
 ## License info
 This product is open-source. Yay!
