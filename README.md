@@ -36,6 +36,7 @@ Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. t
 ## Board versions
 - v1.0 - inital published version 
 - v1.1 - there was error near GPIO1 pushbutton in which GPIO0 was always directly connected to gnd. Fixed now. Silkscreen text is also a bit bigger and more readable.
+- v1.2 - slight redesign, board longer 5mm and wider 2.54mm, added battery charger, changed LDO, parts rearranged. 
 
 ## License info
 This product is open-source. Yay!
