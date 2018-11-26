@@ -1,8 +1,7 @@
 # Croduino NOVA Eagle Files
 ## Image
-![Croduino NOVA image]
-(https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
-[Croduino NOVA(100026)] (https://e-radionica.com/en/croduino-nova.html)
+![Croduino NOVA image](https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
+[Croduino NOVA(100026)](https://e-radionica.com/en/croduino-nova.html)
 
 ## Description and details
 Croduino NOVA is microcontroller board capable of connecting to WiFi Internet network, made in Croatia(EU). It is based on very popular ESP8266 which is struggle to use standalone. With NOVA, just plug the board into USB port and start programming your next Internet-connected project(IoT)! Besides that, the board fits perfectly into a breadboard so prototyping is even more simple. Connecting the physical world to internet was never easier.
