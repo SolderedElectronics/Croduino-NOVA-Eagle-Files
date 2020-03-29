@@ -1,6 +1,5 @@
 # Croduino NOVA Eagle Files
 [![e-radionica.com logo](https://e-radionica.com/productdata/static-pics/email-logo.png)](https://e-radionica.com)
-## Image
 ![Croduino NOVA image](https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
 Buy [Croduino NOVA(100026)](https://e-radionica.com/en/croduino-nova.html) here
 
