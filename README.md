@@ -1,4 +1,5 @@
 # Croduino NOVA Eagle Files
+![e-radionica.com logo](https://e-radionica.com/productdata/static-pics/email-logo.png)
 ## Image
 ![Croduino NOVA image](https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
 Buy [Croduino NOVA(100026)](https://e-radionica.com/en/croduino-nova.html) here
@@ -38,7 +39,7 @@ Tip: layer 200 shows top silkscreen and layer 208 is the bottom silkscreen. tPar
 - v1.2 - slight redesign, board longer 5mm and wider 2.54mm, added battery charger, changed LDO, parts rearranged. 
 
 ## License info
-This product is open-source, yay! Feel free to use it for any purpose you wish, but if you are ever in [Osijek, Croatia](https://goo.gl/maps/tEC2jWnBXJQpk9RJ7), you owe us a beer.
+This product is [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware), yay! Feel free to use it for any purpose you wish, but if you are ever in [Osijek, Croatia](https://goo.gl/maps/tEC2jWnBXJQpk9RJ7), you owe us a beer.
 
 For any tech questions, please write on our [forum](http://forum.e-radionica.com/en/). If you find an Issue, please open one at GitHub. If you can improve our product, fork us.
 
