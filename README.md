@@ -30,7 +30,7 @@ Files have been arranged into folders for navigating between different versions 
 Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts layers are not used.
 
 ## Docs
-- [Croduino NOVA product page] (https://e-radionica.com/en/croduino-nova.html)
+- [Croduino NOVA product page](https://e-radionica.com/en/croduino-nova.html)
 
 ## Board versions
 - v1.0 - inital published version 
