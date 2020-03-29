@@ -1,7 +1,7 @@
 # Croduino NOVA Eagle Files
 ## Image
 ![Croduino NOVA image](https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
-[Croduino NOVA(100026)](https://e-radionica.com/en/croduino-nova.html)
+Buy [Croduino NOVA(100026)](https://e-radionica.com/en/croduino-nova.html) here
 
 ## Description and details
 Croduino NOVA is microcontroller board capable of connecting to WiFi Internet network, made in Croatia(EU). It is based on very popular ESP8266 which is struggle to use standalone. With NOVA, just plug the board into USB port and start programming your next Internet-connected project(IoT)! Besides that, the board fits perfectly into a breadboard so prototyping is even more simple. Connecting the physical world to internet was never easier.
@@ -27,7 +27,7 @@ ESP8266 on-board is loaded with default bootloader.
 ## Repository content
 This repo contains Cadsoft Eagle .sch and .brd files for Croduino NOVA board. It also contains schematic in .pdf created from .sch Eagle file. 
 Files have been arranged into folders for navigating between different versions of board. 
-Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts layers are not used.
+Tip: layer 200 shows top silkscreen and layer 208 is the bottom silkscreen. tParts and bParts layers are not used.
 
 ## Docs
 - [Croduino NOVA product page](https://e-radionica.com/en/croduino-nova.html)
@@ -38,8 +38,8 @@ Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. t
 - v1.2 - slight redesign, board longer 5mm and wider 2.54mm, added battery charger, changed LDO, parts rearranged. 
 
 ## License info
-This product is open-source. Yay!
-For any tech questions, contact us at techsupport@e-radionica.com
-If you find an Issue, please open one at GitHub. If you can improve our product, fork us.
+This product is open-source, yay! Feel free to use it for any purpose you wish, but if you are ever in [Osijek, Croatia](https://goo.gl/maps/tEC2jWnBXJQpk9RJ7), you owe us a beer.
+
+For any tech questions, please write on our [forum](http://forum.e-radionica.com/en/). If you find an Issue, please open one at GitHub. If you can improve our product, fork us.
 
 e-radionica.com Team.
