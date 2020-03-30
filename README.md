@@ -24,7 +24,7 @@ The braing of NOVA is ESP8266 produced by Espressif. It comes with complete WiFi
 ESP8266 on-board is loaded with default bootloader.
 
 ## Repository content
-This repo contains Cadsoft Eagle .sch and .brd files for Croduino NOVA board. It also contains schematic in .pdf created from .sch Eagle file. 
+This repo contains Cadsoft Eagle .sch and .brd files for the board. It also contains schematic in .pdf created from .sch Eagle file. 
 Files have been arranged into folders for navigating between different versions of board. 
 Tip: layer 200 shows top silkscreen and layer 208 is the bottom silkscreen. tParts and bParts layers are not used.
 
