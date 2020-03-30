@@ -1,4 +1,4 @@
-# Croduino NOVA Eagle Files
+# Croduino NOVA Open Source Hardware Files
 ![Croduino NOVA image](https://e-radionica.com/media/catalog/product/d/s/dsc_4844.jpg)
 Buy Croduino NOVA [here](https://e-radionica.com/en/croduino-nova.html).
 
